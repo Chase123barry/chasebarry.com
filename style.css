@@ -1,0 +1,12 @@
+.bg-picton {
+  background-color: #000000;
+}
+
+.bg-grad-5 {
+  background-image: linear-gradient(#835ea1, #493063, #3e2758, #291742)
+}
+
+body {
+ background-image: url("http://a.rgbimg.com/cache1nVLGQ/users/x/xy/xymonau/600/mlZLc3S.jpg");
+ background-color: #cccccc;
+}
